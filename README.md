@@ -1,6 +1,6 @@
 # kmb
 
-<h2 align="center">que yo quéee?</h2>
+<h2 align="center">qué miras puta de mierda</h2>
 
 ```golang
 package main
@@ -28,7 +28,7 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">you can reach me at :alien:</h2>
 
 <p align="center">
   <a href="https://dev.to/kmb">
