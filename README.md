@@ -30,6 +30,11 @@ func GetBio() Bio {
 
 <h2 align="center">You can reach me at :alien:</h2>
 
+<p align="center">
+  <a href="https://dev.to/kmb">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="kmb's DEV Profile" height="30" width="30">
+  </a>
+
   <a href="https://t.me/fumeta">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kmb's telegram profile" height="30" width="30">
   </a>
