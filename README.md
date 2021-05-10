@@ -1,16 +1,56 @@
-### Hi there 👋
+# kmb
 
-<!--
-**kmbisntcrying/kmbisntcrying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Sobre yo</h2>
 
-Here are some ideas to get you started:
+```golang
+package main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "no soy hacker lo juro",
+		"- 🔭 I’m currently working on":      "nada",
+		"- 🌱 I’m currently learning":        "cómo tirar conexciones ip",
+		"- 💬 Ask me about":                  "anything please",
+		"- 📫 How to reach me:":              "https://github.com/kmbisntcrying#you-can-reach-me-at-alien",
+	}
+}
+```
+
+<h2 align="center">You can reach me at :alien:</h2>
+
+  <a href="https://t.me/fumeta">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kmb's telegram profile" height="30" width="30">
+  </a>
+
+  <a href="https://twitter.com/kmbisfuckingyou">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="kmb's twitter profile" height="30" width="30">
+  </a>
+
+  <a href="https://www.instagram.com/69kmb/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="kmb's instagram profile" height="30" width="30">
+  </a>
+
+  <a href="https://discord.gg/xQmVAqe89m">
+    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="kmb's discord profile" height="30" width="30">
+  </a>
+
+
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
+---
+
+⭐️ From [@kmbisntcrying](https://github.com/kmbisntcrying)
