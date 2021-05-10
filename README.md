@@ -23,7 +23,7 @@ func GetBio() Bio {
 		"- 🔭 I’m currently working on":      "nada",
 		"- 🌱 I’m currently learning":        "cómo tirar conexciones ip",
 		"- 💬 Ask me about":                  "anything please",
-		"- 📫 How to reach me:":              "si me buscas me encuentras",
+		"- 📫 How to reach me:":              "lo pone abajo",
 	}
 }
 ```
