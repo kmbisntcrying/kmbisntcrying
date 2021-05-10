@@ -1,6 +1,6 @@
 # kmb
 
-<h2 align="center">Sobre yo</h2>
+<h2 align="center">que yo quéee?</h2>
 
 ```golang
 package main
