@@ -43,9 +43,6 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="kmb's twitter profile" height="30" width="30">
   </a>
 
-  <a href="https://www.instagram.com/69kmb/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="kmb's instagram profile" height="30" width="30">
-  </a>
 
   <a href="https://discord.gg/xQmVAqe89m">
     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="kmb's discord profile" height="30" width="30">
