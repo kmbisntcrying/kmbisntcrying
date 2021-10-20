@@ -39,6 +39,10 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kmb's telegram profile" height="30" width="30">
   </a>
 
+  <a href="https://instagram.com/w7yj">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="kmb's telegram profile" height="30" width="30">
+  </a>
+
   <a href="https://twitter.com/kmbisfuckingyou">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="kmb's twitter profile" height="30" width="30">
   </a>
